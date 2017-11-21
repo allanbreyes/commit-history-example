@@ -1,0 +1,8 @@
+{
+  "name": "commit-history-example",
+  "version": "1.0.0",
+  "description": "Shows the differences in commit histories for GitHub's different \"merge button\" strategies",
+  "repository": "https://github.com/allanbreyes/commit-history-example",
+  "license": "MIT",
+  "private": true
+}
