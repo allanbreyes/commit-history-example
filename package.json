@@ -4,5 +4,13 @@
   "description": "Shows the differences in commit histories for GitHub's different \"merge button\" strategies",
   "repository": "https://github.com/allanbreyes/commit-history-example",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
