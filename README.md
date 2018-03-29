@@ -25,4 +25,3 @@ strategies.
 |/  
 * 09b4732 Allan Reyes: chore(git): initial commit
 ```
-
